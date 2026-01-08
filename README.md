@@ -95,6 +95,7 @@ This project predicted students at risk of dropout using staged analysis. Early 
 
 
 ### Sales Forecasting for Publishing Industry
+![Sales Forecast](./assets/high_resolution_draf.png)
 I developed a time series forecasting system for a large book sales tracking service to help independent publishers predict sales trends, identify long term potential titles, and improve stock control decisions.
 - Tools: Python (Scikit-learn, XGBoost, SARIMA, LSTM, Matplotlib, Seaborn)
 [Github Repo](https://github.com/Onyeka280/Sales-Forecasting-for-Publishing-Industry-Using-Time-Series-Analysis)
