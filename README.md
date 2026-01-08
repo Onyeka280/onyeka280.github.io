@@ -83,7 +83,7 @@ Segmented 68,000+ e-commerce customers using K-Means in Python, applying RFM and
 
 
 ### Anomaly Detection for Ship Engine Monitoring
-![Anomaly Detection](./assets/ship_engine_anomaly.jpg)
+![Anomaly Detection](./assets/ship_engine_anomaly_2.jpg)
 Developed an anomaly detection system for ship engine data in Python by cleaning sensor inputs and applying IQR, One Class SVM, and Isolation Forest, then visualized performance deviations using PCA plots in Seaborn, enabling early detection of potential engine failures, reducing downtime risk and supporting predictive maintenance planning. 
 - Tools: Python (Scikit-learn, One-Class SVM, Isolation Forest, PCA)
 [Github Repo](https://github.com/Onyeka280/ship-engine-anomaly-detection)
