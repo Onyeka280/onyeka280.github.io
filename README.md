@@ -12,9 +12,9 @@ BRETopic, Statsmodels),  SQL
 ## Education
 - Data Science Career Accelerator | The University of Cambridge (_October 2025_)
 
-- MSc., International Business | The University of Chester (_December 2024_)
+- MSc., International Business    | The University of Chester (_December 2024_)
                  		
-- BSc., Marketing	| The University of Calabar, Nigeria (_December 2015_)
+- BSc., Marketing	                | The University of Calabar, Nigeria (_December 2015_)
 
 ### Experience 
 **Data Science Career Accelerator**
