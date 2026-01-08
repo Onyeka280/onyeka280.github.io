@@ -101,6 +101,7 @@ I developed a time series forecasting system for a large book sales tracking ser
 
 
 ### Customer Sentiment Analysis for Fitness Chain Using NLP
+![Customer Sentiment Analysis](/assets/img/eeg_band_discovery.jpeg)
 I used NLP to analyze 40,000 gym reviews, identifying 10 key complaint themes including air conditioning issues and membership problems. The automated topic modeling system enables data-driven interventions to improve retention by 10-15%.
 - Tools: Python (BERTopic, Phi-4-Mini-Instruct, Gensim LDA, Pandas, NumPy, NLTK)
 [Github Repo](https://github.com/Onyeka280/customer_sentiment_analysis_for_fitness_chain_2)
