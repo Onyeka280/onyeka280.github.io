@@ -691,3 +691,38 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+
+  /* ✅ Mobile fixes */
+@media (max-width: 768px) {
+
+  .content {
+    margin-left: 0 !important;
+    margin-top: 20px !important;
+    padding: 0 20px;
+  }
+
+  .caption {
+    max-width: 100%;
+  }
+
+  .caption h2 {
+    font-size: 24px;
+  }
+
+  .caption h5 {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .intro-text {
+    font-size: 14px;
+    line-height: 1.6;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+
+  .full-height {
+    height: auto;
+    min-height: 100vh;
+  }
+}
